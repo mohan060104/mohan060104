@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **mohan060104/mohan060104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-## I'm Mohan Majhi 
-(https://github-profile-view-statistic.vercel.app/api?username=mohan060104)
+## I'm Mohan 
+### Welcome to my Profile!
 
 
 <!--[Your short bio, including your skills and interests]-->
