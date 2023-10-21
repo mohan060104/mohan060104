@@ -13,16 +13,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-## I'm Mohan Majhi <img src="https://github-profile-view-statistic.vercel.app/api?username=mohan060104" alt="Profile view count">
+## I'm Mohan Majhi 
+![Profile views counter](https://github-profile-view-statistic.vercel.app/api?username=mohan060104)
 
 
 <!--[Your short bio, including your skills and interests]-->
 I'm a tech enthusiast and an aspiring full-stack developer.
-I know how to work with HTML, CSS, JavaScript, Tailwind CSS, and BootStrap. I have some basic video editing skills also.
+I am proficient in HTML, CSS, JavaScript, Tailwind CSS, and BootStrap. I have some basic video editing skills also.
 Currently developing my back-end skills, and learning the MERN stack and I love exploring.
 
 [Links to your social media profiles and personal website, if applicable]
-Let's connect 
+Let's Connect 
 [LinkedIn](https://www.linkedin.com/in/mohan060104/💼)
 
 
