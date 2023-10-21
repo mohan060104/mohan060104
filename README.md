@@ -29,9 +29,11 @@ Let's Connect
 
 ### Contact Me
 
-[Your email address and/or other preferred contact method]
+📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at mohan060104@gmail.com. I'm always up for a good conversation! 📩👋
 
-### Projects
+                                                                         ## Loading...
+
+<!--### Projects
 
 [List of your most notable projects, with links to the repositories]
 
@@ -57,6 +59,6 @@ Let's Connect
 
 ### Last Updated
 
-[The date you last updated your README.md file]
+[The date you last updated your README.md file]-->
 
 
