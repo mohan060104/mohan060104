@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 ## I'm Mohan Majhi 
-![Profile views counter](https://github-profile-view-statistic.vercel.app/api?username=mohan060104)
+(https://github-profile-view-statistic.vercel.app/api?username=mohan060104)
 
 
 <!--[Your short bio, including your skills and interests]-->
