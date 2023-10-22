@@ -47,13 +47,16 @@ Let's Connect
 
 ### Experience
 
-[List of your relevant work experience]
+[List of your relevant work experience] -->
 
 ### Contributions
 
-[List of any open source projects or other communities you have contributed to]
+<!--[List of any open source projects or other communities you have contributed to]-->
+🌟Hacktoberfest'23🌈👩‍💻
 
-### Acknowledgments
+Holopin profile ((https://www.holopin.io/@mohan060104#))
+
+<!--### Acknowledgments
 
 [Thank anyone who has helped you along the way]
 
