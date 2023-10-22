@@ -52,9 +52,10 @@ Let's Connect
 ### Contributions
 
 <!--[List of any open source projects or other communities you have contributed to]-->
-🌟Hacktoberfest'23🌈👩‍💻
 
-Holopin profile ((https://www.holopin.io/@mohan060104#))
+🌟Hacktoberfest'23🌈👩‍💻
+<li>Holopin profile ((https://www.holopin.io/@mohan060104#))</li>
+
 
 <!--### Acknowledgments
 
