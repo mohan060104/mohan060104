@@ -1,8 +1,6 @@
 <!--## Hi there 👋-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+It's+been+a+while+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg) ✨
 
-<img src="https://komarev.com/ghpvc/?username=mohan060104&style=flat-square&color=blue" alt=""/>
-
 <!--
 **mohan060104/mohan060104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-## I'm Mohan 
+## I'm Mohan  <img src="https://komarev.com/ghpvc/?username=mohan060104&style=flat-square&color=blue" alt=""/>
 ### Welcome to my Profile!
 
 
