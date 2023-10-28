@@ -28,15 +28,17 @@ Currently developing my back-end skills, and learning the MERN stack and I love 
 [![An image of @mohan060104's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohan060104)](https://holopin.io/@mohan060104)
 
 <!--[Links to your social media profiles and personal website, if applicable]-->
-Let's Connect 
-[LinkedIn](https://www.linkedin.com/in/mohan060104/💼)
+---
+### Let's Connect 
+<!--[LinkedIn](https://www.linkedin.com/in/mohan060104/💼)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan060104/)
 
 
 ### Contact Me
 
 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at mohan060104@gmail.com. I'm always up for a good conversation! 📩👋
 
-                                                                        
+---                                                                        
 <!--### Projects
 
 [List of your most notable projects, with links to the repositories]
