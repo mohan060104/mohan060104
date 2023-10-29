@@ -61,9 +61,9 @@ Currently developing my back-end skills, and learning the MERN stack and I love 
 <li>Holopin profile ((https://www.holopin.io/@mohan060104#))</li>
 
 ### GitHub Stats
-[![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=mohan060104&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/mohan060104/github-readme-stats"><img
+<a href="https://github.com/mohan060104/github-readme-stats"><img
  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan060104&layout=compact&theme=buefy&hide_border=true"
- /></a> 
+ /></a> [![Mohan's github stats](https://github-readme-stats.vercel.app/api?username=mohan060104&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
  
  
 <!--### Acknowledgments
