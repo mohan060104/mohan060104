@@ -34,7 +34,7 @@ Currently developing my back-end skills, and learning the MERN stack and I love 
 
 ### Contact Me
 
-📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at mohan060104@gmail.com. I'm always up for a good conversation! 📩👋
+📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at mohan07364@gmail.com. I'm always up for a good conversation! 📩👋
 
 ---                                                                        
 <!--### Projects
